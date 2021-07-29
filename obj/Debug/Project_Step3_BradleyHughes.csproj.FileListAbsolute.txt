@@ -1,0 +1,20 @@
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.exe.config
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.exe
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.pdb
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csprojAssemblyReference.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.Budgeting.resources
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.Properties.Resources.resources
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csproj.GenerateResource.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csproj.CoreCompileInputs.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.exe
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.pdb
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csproj.AssemblyReference.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.Budgeting.resources
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.Properties.Resources.resources
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csproj.GenerateResource.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.csproj.CoreCompileInputs.cache
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.exe
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\obj\Debug\Project_Step3_BradleyHughes.pdb
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.exe.config
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.exe
+C:\Users\bradh\OneDrive\School\Fall-2020\C#\Project\Step3\final project\Project_Step3_BradleyHughes\bin\Debug\Project_Step3_BradleyHughes.pdb
